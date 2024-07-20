@@ -12,7 +12,7 @@ an interesting idea and like it would be fun to make.
 
 {Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](https://youtu.be/Q-h3zjrcWvY)
+[Software Demo Video]([https://youtu.be/Q-h3zjrcWvY](https://youtu.be/lry_S7LcVhU))
 
 # Development Environment
 
